@@ -1,0 +1,6 @@
+Approach,Relevance (golden),Faithfulness (golden),Completeness (golden),Golden Overall,Answer Relevancy (cases),Faithfulness (cases),Completeness (cases),Source Attribution (cases),Test-case Overall,Composite Score,Avg latency (s),Avg answer words,Rationale
+Baseline Prompt,0.767,0.954,0.943,0.888,0.908,0.922,0.905,0.928,0.916,0.902,3.5,220,"Baseline prompt, 1000/150 chunks, k=5, temperature 0 (Section 1)."
+Config_2_Balanced,0.773,0.943,0.966,0.894,0.9,0.899,0.89,0.913,0.901,0.897,4.0,227,Paragraph-sized chunks and moderate k to cover 2-3 entities; near-deterministic generation.
+Config_1_Precision,0.757,0.949,0.978,0.895,0.881,0.895,0.871,0.888,0.884,0.889,3.6,211,"Small focused chunks, few retrieved, greedy decoding and a short budget for precise single-fact answers."
+GEPA Optimized Prompt,0.767,0.921,0.939,0.876,0.902,0.891,0.906,0.899,0.9,0.888,3.5,203,GEPA prompt with the baseline retrieval and generation settings (Section 2).
+Config_3_Context_Rich,0.78,0.913,0.977,0.89,0.91,0.76,0.88,0.767,0.829,0.859,3.9,226,"Large chunks and high k for multi-company, multi-source synthesis; more generation freedom."

@@ -1,0 +1,89 @@
+id,question,answer,approach,sources
+1,"Compare the total revenue and net income reported by Apple, Amazon, and Alphabet in their latest 10-Q filings. Which company grew fastest year-over-year?","### Latest 10-Q Revenue and Net Income Comparison
+
+**Apple Inc. (AAPL)**  
+- **Total Revenue (Q1 2026)**: $143,756 million  
+- **Net Income (Q1 2026)**: Not explicitly stated in the retrieved context.  
+
+**Amazon.com, Inc. (AMZN)**  
+- **Total Revenue (Q3 2025)**: $180,169 million  
+- **Net Income (Q3 2025)**: $21,187 million  
+
+**Alphabet Inc. (GOOGL)**  
+- **Total Revenue (Q3 2025)**: $102,346 million  
+- **Net Income (Q3 2025)**: $34,979 million  
+
+### Year-over-Year Growth Comparison
+- **Apple**: Revenue growth from Q1 2025 ($124,300 million) to Q1 2026 ($143,756 million) = **16%** increase.
+- **Amazon**: Revenue growth from Q3 2024 ($158,877 million) to Q3 2025 ($180,169 million) = **13.4%** increase.
+- **Alphabet**: Revenue growth from Q3 2024 ($88,268 million) to Q3 2025 ($102,346 million) = **16%** increase.
+
+### Fastest Growing Company
+Both **Apple** and **Alphabet** grew at **16%** year-over-year, while **Amazon** grew at **13.4%**. Therefore, **Apple and Alphabet** are tied for the fastest growth among the three companies.",Config_2_Balanced,"SEC 10-K – Apple Inc. (AAPL), period ended 2024-09-28, Item 7 - MD&A | SEC 10-Q – Apple Inc. (AAPL), period ended 2025-12-27, Item 2 - MD&A | SEC 10-K – Apple Inc. (AAPL), period ended 2024-09-28, Item 8 - Financial Statements | SEC 10-Q – Apple Inc. (AAPL), period ended 2025-12-27, Item 2 - MD&A | SEC 10-Q – Apple Inc. (AAPL), period ended 2025-06-28, Item 2 - MD&A | SEC 10-K – Alphabet Inc. (GOOGL), period ended 2025-12-31, Item 7 - MD&A | SEC 10-Q – Apple Inc. (AAPL), period ended 2025-12-27, Item 1 - Financial Statements / Legal Proceedings | Price data – Apple (NASDAQ) (AAPL), 2025-10-23 to 2026-04-22 | Price data – Apple (NASDAQ) (AAPL), 2025-10 | News – ""5 stats that explain Apple's stock-market dominance during the Tim Cook era"" (Business Insider, 2026-04-22) https://www.businessinsider.com/apple-stock-price-returns-explained-under-ceo-tim-cook-buybacks-2026-4 | SEC 10-Q – Amazon.com, Inc. (AMZN), period ended 2025-09-30, Item 1 - Financial Statements / Legal Proceedings | SEC 10-Q – Amazon.com, Inc. (AMZN), period ended 2025-09-30, Item 2 - MD&A | SEC 10-Q – Amazon.com, Inc. (AMZN), period ended 2025-09-30, Item 1 - Financial Statements / Legal Proceedings | Price data – Amazon (NASDAQ) (AMZN), 2025-10-23 to 2026-04-22 | Price data – Amazon (NASDAQ) (AMZN), 2025-10 | News – ""Amazon Gets a Double Upgrade From BofA and KeyBanc Ahead of Earnings: Is $325 the New Floor?"" (24/7 Wall St., 2026-04-20) https://247wallst.com/investing/2026/04/20/amazon-gets-a-double-upgrade-from-bofa-and-keybanc-ahead-of-earnings-is-325-the-new-floor/ | SEC 10-Q – Alphabet Inc. (GOOGL), period ended 2025-09-30, Item 1 - Financial Statements / Legal Proceedings | SEC 10-Q – Alphabet Inc. (GOOGL), period ended 2025-09-30, Item 2 - MD&A | SEC 10-Q – Alphabet Inc. (GOOGL), period ended 2025-09-30, Item 2 - MD&A | Price data – Alphabet (NASDAQ) (GOOGL), 2025-10-23 to 2026-04-22 | Price data – Alphabet (NASDAQ) (GOOGL), 2025-10 | News – ""Alphabet Stock Dips 0.57% as Investors Await Q1 Earnings Amid Massive AI Spending Push"" (Ibtimes.com.au, 2026-04-20) https://www.ibtimes.com.au/alphabet-stock-dips-057-investors-await-q1-earnings-amid-massive-ai-spending-push-1867086"
+2,"Based on this week's news sentiment around Amazon, would you classify the current signal as bullish or bearish, and does the price data support that?","**Current Signal Classification: Bullish**
+
+1. **News Sentiment**: Amazon received a double upgrade from BofA and KeyBanc ahead of its Q1 earnings report, with price targets raised to $298 and $325, respectively. This indicates positive sentiment and expectations for growth in AWS (Amazon Web Services) accelerating to 28-30% from Q4's 24% [S2].
+
+2. **Price Data**: 
+   - The price of Amazon (AMZN) has shown a significant upward trend, moving from a close of **221.09** on **2025-10-23** to **255.36** on **2026-04-22**, representing a **+15.5%** increase over this period. 
+   - The last 30 days have seen a **+21.5%** change, indicating strong recent performance.
+   - The most recent closing prices are **249.91** on **2026-04-21** and **255.36** on **2026-04-22**, suggesting a positive momentum leading into earnings [S1].
+
+**Conclusion**: The combination of bullish news sentiment and strong price performance supports a bullish classification for Amazon at this time.",Config_2_Balanced,"Price data – Amazon (NASDAQ) (AMZN), 2025-10-23 to 2026-04-22 | News – ""Amazon Gets a Double Upgrade From BofA and KeyBanc Ahead of Earnings: Is $325 the New Floor?"" (24/7 Wall St., 2026-04-20) https://247wallst.com/investing/2026/04/20/amazon-gets-a-double-upgrade-from-bofa-and-keybanc-ahead-of-earnings-is-325-the-new-floor/ | Price data – Amazon (NASDAQ) (AMZN), 2025-11 | SEC 10-K – Amazon.com, Inc. (AMZN), period ended 2025-12-31, Item 1A - Risk Factors | SEC 10-Q – Amazon.com, Inc. (AMZN), period ended 2025-09-30, Item 1A - Risk Factors | SEC 10-Q – Amazon.com, Inc. (AMZN), period ended 2025-06-30, Item 1A - Risk Factors"
+3,"Should I invest in Apple right now? I heard Tim Cook is stepping down — is that a red flag? How's the stock been doing, and is there anything I should be worried about with the company's financials or risks?","**Investment Consideration for Apple (AAPL)**
+
+1. **CEO Transition**: Tim Cook's stepping down has been framed as a signal of strength rather than uncertainty for Apple. Commentary suggests that this transition is not viewed negatively, indicating confidence in the company's future leadership and direction [S1][S6].
+
+2. **Stock Performance**: 
+   - The stock price has shown a slight increase of **5.4%** from **$259.09** on **October 23, 2025** to **$273.17** on **April 22, 2026**. 
+   - Over the last 30 days, the stock has increased by **8.6%**. 
+   - The stock reached a high of **$288.35** on **December 3, 2025**, and a low of **$243.19** on **January 20, 2026** [S7].
+
+3. **Financial Risks**: 
+   - Apple faces risks related to stock price volatility, which has been significant historically and may continue. This volatility can affect investor confidence and the company's ability to meet growth and profitability expectations [S2][S5].
+   - Future dividends are subject to the Board's declaration, and the company’s share repurchase program does not guarantee specific buybacks, which could impact stock price if expectations are not met [S4][S5].
+
+**Summary**: While the CEO transition is not seen as a red flag, the stock has shown positive recent performance. However, potential investors should be aware of the inherent risks related to price volatility and the company's financial commitments.",Config_2_Balanced,"News – ""Apple’s CEO Transition Signals Strength, Not Uncertainty"" (Yale.edu, 2026-04-21) https://insights.som.yale.edu/insights/apples-ceo-transition-signals-strength-not-uncertainty | SEC 10-K – Apple Inc. (AAPL), period ended 2025-09-27, Item 1A - Risk Factors | News – ""36 S&P 500 Stocks Blew Away Tim Cook's Apple With Less Fanfare"" (Investor's Business Daily, 2026-04-22) https://www.investors.com/etfs-and-funds/sectors/sp-500-stocks-blew-away-tim-cooks-apple-with-less-fanfare/ | SEC 10-K – Apple Inc. (AAPL), period ended 2024-09-28, Item 1A - Risk Factors | SEC 10-K – Apple Inc. (AAPL), period ended 2025-09-27, Item 1A - Risk Factors | News – ""Tim Cook is stepping down. No one is shocked. And that’s a good example of how his critics always underestimated him."" (Fortune, 2026-04-21) https://fortune.com/2026/04/21/apple-ceo-tim-cook-steps-down-john-ternus/ | Price data – Apple (NASDAQ) (AAPL), 2025-10-23 to 2026-04-22 | Price data – Apple (NASDAQ) (AAPL), 2025-10"
+4,"Is now a good time to buy Bitcoin? News is saying it just crossed $78k — am I too late? What's the price trend looked like over the last few months, and what's driving the current rally?","**Current Price and Trend:**
+Bitcoin is currently trading around $78,300 as of April 22, 2026, having recently touched a high of $79,468 on the same day before pulling back slightly [S5][S8]. Over the last few months, Bitcoin's price has shown significant volatility, moving from a high of $116,273.31 on October 27, 2025, to a low of $60,074.20 on February 6, 2026, and closing at $77,814.03 on April 23, 2026, reflecting a -29.3% change over this period but a +10.3% increase in the last 30 days [S7].
+
+**Driving Factors for Current Rally:**
+The recent rally in Bitcoin's price is attributed to strong ETF inflows and a declining CBOE Volatility Index (VIX), which indicates an improving risk appetite among investors [S1][S4]. Additionally, geopolitical tensions, particularly in the Middle East, have led investors to seek Bitcoin as a hedge against instability [S2].
+
+**Conclusion:**
+While Bitcoin has reached a significant price point, the market sentiment suggests caution, with some analysts indicating it may be entering a ""final bull trap"" before a potential drop to $52,000 [S1]. Therefore, while the current price is high, the mixed signals regarding future price movements should be considered.",Config_2_Balanced,"News – ""Bitcoin Entering Final Bull Trap Below $80k Before a Crash to $52k"" (ZyCrypto, 2026-04-21) https://zycrypto.com/bitcoin-entering-final-bull-trap-below-80k-before-a-crash-to-52k/ | News – ""Bitcoin Price Today: BTC Surges Past $75,000 in 2026 Amid Geopolitical Tensions and ETF Inflows"" (Ibtimes.com.au, 2026-04-17) https://www.ibtimes.com.au/bitcoin-price-today-btc-surges-past-75000-2026-amid-geopolitical-tensions-etf-inflows-1866850 | News – ""Bitcoin Rebounds Strongly — Can Bulls Drive Price Toward $79,000"" (newsBTC, 2026-04-20) http://www.newsbtc.com/news/bitcoin/bitcoin-rebounds-strongly/ | News – ""VIX drops 45% in three weeks: Is Bitcoin price ready to retake $80K?"" (Cointelegraph, 2026-04-21) https://cointelegraph.com/markets/vix-drops-45-precent-three-weeks-btc-price-retake-80k | News – ""Bitcoin on April 22: BTC Approaches $78,300, Market Anticipates Short Squeeze"" (Bitcoinfoundation.org, 2026-04-22) https://bitcoinfoundation.org/news/bitcoin/btc-22-april/ | News – ""Bitcoin holds firm near $76K, rebounds from dip as buying interest stays strong"" (The Times of India, 2026-04-21) https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-firm-near-76k-rebounds-from-dip-as-buying-interest-stays-strong/articleshow/130408396.cms | Price data – Bitcoin (BTC-USD), 2025-10-23 to 2026-04-23 | Price data – Bitcoin (BTC-USD), 2026-04"
+5,"I want to invest in AI. Out of Google, Amazon, and Apple, which one looks like the best bet right now? How are they performing, what are they saying about their AI business, and what's the buzz around them?","### Investment Overview: Google, Amazon, and Apple in AI
+
+#### 1. **Performance Summary**
+- **Google (Alphabet Inc.)**: 
+  - Price increased from **$252.74** on **2025-10-23** to **$339.32** on **2026-04-22** (+34.3%). Last 30-day change: **+12.3%**. Recent close on **2026-04-22** was **$339.32** [S7].
+  
+- **Amazon**: 
+  - Price moved from **$221.09** on **2025-10-23** to **$255.36** on **2026-04-22** (+15.5%). Last 30-day change: **+21.5%**. Recent close on **2026-04-22** was **$255.36** [S12].
+  
+- **Apple**: 
+  - Price rose from **$259.09** on **2025-10-23** to **$273.17** on **2026-04-22** (+5.4%). Last 30-day change: **+8.6%**. Recent close on **2026-04-22** was **$273.17** [S17].
+
+#### 2. **AI Business Insights**
+- **Google**: 
+  - Emphasizes a full-stack approach to AI, integrating it across products like Search and YouTube. They are developing frontier generative AI models and investing heavily in AI infrastructure, which they believe will enhance user engagement and revenue growth [S2][S3][S5]. However, they face significant competition and high operational costs [S2].
+
+- **Amazon**: 
+  - Plans to increase spending on technology and infrastructure to support AI initiatives, which may impact short-term cash flow but is aimed at long-term growth. They are focusing on enhancing user experience through AI and machine learning [S11]. Recent upgrades from analysts suggest confidence in their growth trajectory, particularly in AWS [S14].
+
+- **Apple**: 
+  - Faces risks related to patent claims as it integrates AI into its products. The company is focused on maintaining its competitive edge in technology and innovation, but litigation risks could impact operations [S16]. There is no specific recent commentary on their AI strategy in the provided context.
+
+#### 3. **Market Buzz**
+- **Google**: Recent stock dip of **0.57%** as investors await Q1 earnings, reflecting concerns over AI spending [S9].
+  
+- **Amazon**: Positive sentiment with double upgrades from analysts ahead of earnings, indicating strong expectations for AWS growth [S14].
+  
+- **Apple**: No significant recent buzz regarding AI specifically, but ongoing leadership changes may affect investor sentiment [S19].
+
+### Conclusion
+- **Best Performer**: Google shows strong price growth and a robust AI strategy, but faces competitive pressures. 
+- **Amazon** has positive analyst sentiment and is investing heavily in AI, making it a strong contender.
+- **Apple** has a stable performance but is facing litigation risks and lacks recent AI-specific commentary.
+
+Consider these factors when evaluating which company aligns best with your investment strategy in AI.",Config_2_Balanced,"News – ""The 3 Best Artificial Intelligence (AI) Growth Stocks to Buy on the Nasdaq Before Q1 Earnings Season"" (Yahoo Entertainment, 2026-04-21) https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cf89236a-1c21-4229-9f09-b478158d51c6 | SEC 10-K – Alphabet Inc. (GOOGL), period ended 2025-12-31, Item 1A - Risk Factors | SEC 10-K – Alphabet Inc. (GOOGL), period ended 2025-12-31, Item 1 - Business | SEC 10-K – Alphabet Inc. (GOOGL), period ended 2025-12-31, Item 1 - Business | SEC 10-K – Alphabet Inc. (GOOGL), period ended 2025-12-31, Item 7 - MD&A | SEC 10-K – Alphabet Inc. (GOOGL), period ended 2024-12-31, Item 1 - Business | Price data – Alphabet (NASDAQ) (GOOGL), 2025-10-23 to 2026-04-22 | Price data – Alphabet (NASDAQ) (GOOGL), 2026-01 | News – ""Alphabet Stock Dips 0.57% as Investors Await Q1 Earnings Amid Massive AI Spending Push"" (Ibtimes.com.au, 2026-04-20) https://www.ibtimes.com.au/alphabet-stock-dips-057-investors-await-q1-earnings-amid-massive-ai-spending-push-1867086 | SEC 10-K – Amazon.com, Inc. (AMZN), period ended 2024-12-31, Item 1A - Risk Factors | SEC 10-K – Amazon.com, Inc. (AMZN), period ended 2025-12-31, Item 7 - MD&A | Price data – Amazon (NASDAQ) (AMZN), 2025-10-23 to 2026-04-22 | Price data – Amazon (NASDAQ) (AMZN), 2026-01 | News – ""Amazon Gets a Double Upgrade From BofA and KeyBanc Ahead of Earnings: Is $325 the New Floor?"" (24/7 Wall St., 2026-04-20) https://247wallst.com/investing/2026/04/20/amazon-gets-a-double-upgrade-from-bofa-and-keybanc-ahead-of-earnings-is-325-the-new-floor/ | SEC 10-K – Apple Inc. (AAPL), period ended 2024-09-28, Item 5 - Market for Common Equity | SEC 10-K – Apple Inc. (AAPL), period ended 2025-09-27, Item 1A - Risk Factors | Price data – Apple (NASDAQ) (AAPL), 2025-10-23 to 2026-04-22 | Price data – Apple (NASDAQ) (AAPL), 2026-01 | News – ""Apple's next CEO, Warsh's confirmation hearing, the psychedelic stock surge and more in Morning Squawk"" (CNBC, 2026-04-21) https://www.cnbc.com/2026/04/21/5-things-to-know-before-the-market-opens.html"

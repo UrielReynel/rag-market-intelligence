@@ -1,0 +1,16 @@
+# Project 3 – GlobalEdge RAG (Python 3.12)
+# Same pinned versions as the notebook's %pip cell, plus Jupyter support.
+chromadb==1.5.9
+langchain-community==0.4.1
+langchain-chroma==1.1.0
+langchain-openai==1.2.1
+langchain-text-splitters==1.1.2
+pandas==3.0.3
+numpy==2.4.4
+scikit-learn>=1.4.0
+python-dotenv>=1.0.1
+tqdm>=4.66.0
+deepeval==4.2.2
+matplotlib>=3.8
+ipykernel>=6.29
+nbconvert>=7.16

@@ -1,0 +1,12 @@
+# Credentials: copy config.example.json to config.json locally, never commit it
+config.json
+.env
+# Course datasets (not redistributed) and generated indexes
+AI&DS_Project_3_Datasets/
+AI&DS_Project_3_Datasets.zip
+chroma_db/
+.deepeval/
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
